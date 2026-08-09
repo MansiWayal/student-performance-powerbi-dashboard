@@ -73,4 +73,4 @@ Through this project, I practiced:
 - Presenting data insights in a visual format
 
 ## Dashboard
-![Student Performance Dashboard](dashboard.png)
+![Student Performance Dashboard](Dashboard.png)
